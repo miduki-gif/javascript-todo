@@ -1,8 +1,8 @@
-@charset "utf-8"; */
+/* @charset "utf-8";  */
  body {
-font-family: sans-serif;
-};
-
-.keys{
-    background-color: #562ea0;
+    font-family: sans-serif;
 }
+ .input-area{
+    background-color: aqua;
+}
+
